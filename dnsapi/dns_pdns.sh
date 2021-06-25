@@ -2,7 +2,7 @@
 
 #PowerDNS Embedded API
 #https://doc.powerdns.com/md/httpapi/api_spec/
-#
+
 #PDNS_Url="http://ns.example.com:8081"
 #PDNS_ServerId="localhost"
 #PDNS_Token="0123456789ABCDEF"
